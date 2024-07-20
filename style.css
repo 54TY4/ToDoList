@@ -20,6 +20,7 @@ body {
 .due-date-input {
   font-size: 15px;
   padding: 6px;
+  border: 2px solid black;
 }
 
 .add-todo-button {
